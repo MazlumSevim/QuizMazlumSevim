@@ -1,0 +1,64 @@
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\QuizMazlumSevim.exe
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\QuizMazlumSevim.deps.json
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\QuizMazlumSevim.runtimeconfig.json
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\QuizMazlumSevim.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\QuizMazlumSevim.pdb
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\ZstdSharp.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.csproj.AssemblyReference.cache
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.Form1.resources
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.Gesamtpunktzahl.resources
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.Quiz.resources
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.csproj.GenerateResource.cache
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.AssemblyInfoInputs.cache
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.AssemblyInfo.cs
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.csproj.CoreCompileInputs.cache
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazl.D25E7C9A.Up2Date
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\refint\QuizMazlumSevim.dll
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.pdb
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.genruntimeconfig.cache
+C:\Users\tn\source\repos\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\ref\QuizMazlumSevim.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\QuizMazlumSevim.exe
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\QuizMazlumSevim.deps.json
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\QuizMazlumSevim.runtimeconfig.json
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\QuizMazlumSevim.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\QuizMazlumSevim.pdb
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\Google.Protobuf.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\K4os.Compression.LZ4.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\K4os.Hash.xxHash.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\MySql.Data.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\ZstdSharp.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\bin\Debug\net9.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.csproj.AssemblyReference.cache
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.Form1.resources
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.Gesamtpunktzahl.resources
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.Quiz.resources
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.csproj.GenerateResource.cache
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.AssemblyInfoInputs.cache
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.AssemblyInfo.cs
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.csproj.CoreCompileInputs.cache
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazl.D25E7C9A.Up2Date
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\refint\QuizMazlumSevim.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.pdb
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.genruntimeconfig.cache
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\ref\QuizMazlumSevim.dll
