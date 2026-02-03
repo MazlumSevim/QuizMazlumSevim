@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuizMazlumSevim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61c42a78ad09fdcab1ef950865c87f4ab502e60a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+438a6b276b2436f0f47060839063aa64160301e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuizMazlumSevim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuizMazlumSevim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

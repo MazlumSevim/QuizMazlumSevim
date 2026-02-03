@@ -62,3 +62,4 @@ C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH
 C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.pdb
 C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.genruntimeconfig.cache
 C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\ref\QuizMazlumSevim.dll
+C:\Users\tn\OneDrive - GPB Gesellschaft für Personalentwicklung und Bildung mbH\Desktop\QuizMazlumSevim\QuizMazlumSevim\QuizMazlumSevim\obj\Debug\net9.0-windows\QuizMazlumSevim.sourcelink.json
